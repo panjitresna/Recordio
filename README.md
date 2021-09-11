@@ -1,5 +1,3 @@
-Recordio Live Stream Recorder v2.0 by @panjitresna
-
 Recordio is a live stream recorder software
 
 Supported website:
