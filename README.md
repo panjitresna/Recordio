@@ -3,14 +3,14 @@ Recordio Live Stream Recorder v2.0 by @panjitresna
 Recordio is a live stream recorder software
 
 Supported website:
-https://chaturbate.com/ (Live Stream)
-https://www.facebook.com/ (Video Only)
-https://www.instagram.com/ (Video Only - Public Profile)
-https://www.pornhub.com/ (Video Only - Make sure that Pornhub is not blocked by your ISP or use VPN to bypass)
-https://www.twitch.tv/ (Live Stream)
-https://xhamster2.com/ (Video Only)
-https://www.xnxx.com/ (Video Only)
-https://www.youtube.com/ (Live Stream and Video)
+- https://chaturbate.com/ (Live Stream)
+- https://www.facebook.com/ (Video Only)
+- https://www.instagram.com/ (Video Only - Public Profile)
+- https://www.pornhub.com/ (Video Only - Make sure that Pornhub is not blocked by your ISP or use VPN to bypass)
+- https://www.twitch.tv/ (Live Stream)
+- https://xhamster2.com/ (Video Only)
+- https://www.xnxx.com/ (Video Only)
+- https://www.youtube.com/ (Live Stream and Video)
 
 Minimum Requirements:
 - Microsoft Windows (7, 8, 10)
